@@ -3,7 +3,4 @@ I am qi
 this is 3th changed file
 git
 8998
-<<<<<<< HEAD
-=======
 666
->>>>>>> jk
