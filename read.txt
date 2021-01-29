@@ -1,7 +1,5 @@
 123
 I am qi
 this is 3th changed file
-<<<<<<< HEAD
-=======
 last
->>>>>>> last
+7889
